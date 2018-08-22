@@ -1,6 +1,6 @@
-# envelopes_flutter
+# Envelopes
 
-A new Flutter project.
+Don't send an email. Send an envelope.
 
 ## Getting Started
 
